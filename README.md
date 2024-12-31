@@ -18,7 +18,7 @@ A simple command-line interface (CLI) password manager written in Python. This t
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/password-manager-cli.git
+    git clone https://github.com/MohitRanjan2433/Py-Password-Manager.git
     ```
 
 2. Install the required dependencies:
